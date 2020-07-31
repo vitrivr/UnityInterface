@@ -14,7 +14,7 @@
     <assembly fullname="JsonSubTypes">
         <type fullname="*" preserve="all" />
     </assembly>
-    <assembly fullname="org.Vitrivr.Cineast">
+    <assembly fullname="Org.Vitrivr.CineastApi">
         <type fullname="*" preserve="all" />
     </assembly>
     <assembly fullname="System.Core">
